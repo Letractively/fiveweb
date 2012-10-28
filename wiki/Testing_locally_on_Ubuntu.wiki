@@ -2,7 +2,7 @@
 
 sudo apt-get install apache2
 
-To test it, go to the Internet browse and go to "localhost"
+To test it, go to the Internet browser and go to "localhost"
 
 *2. Copy the FiveWeb apps to:*
 

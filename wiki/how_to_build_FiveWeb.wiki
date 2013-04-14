@@ -1,3 +1,11 @@
-Simple run: go.bat
+For Windows:
 
-that will build FiveWeb for Windows
+Simple execute go.bat
+
+For Linux:
+
+Simply execute make
+
+For OSX:
+
+Simply execute ./gomak.sh

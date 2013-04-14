@@ -1,0 +1,3 @@
+Simple run: go.bat
+
+that will build FiveWeb for Windows

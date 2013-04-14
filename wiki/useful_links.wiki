@@ -2,6 +2,6 @@ JQuery UI:
 
 http://jqueryui.com/
 
-BootStrap:
+Bootstrap:
 
 http://twitter.github.io/bootstrap/

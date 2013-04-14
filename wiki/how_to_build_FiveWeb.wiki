@@ -1,11 +1,11 @@
-For Windows:
+*For Windows:*
 
 Simple execute go.bat
 
-For Linux:
+*For Linux:*
 
 Simply execute make
 
-For OSX:
+*For OSX:*
 
 Simply execute ./gomac.sh

@@ -9,5 +9,7 @@
   * [examples Examples]
     * [tutor01_prg Tutor01.prg]
     * [tutor02_prg Tutor02.prg]
+    * [tutor03_prg Tutor03.prg]
+    * [testbrow_prg TestBrow.prg]
   * [useful_links Useful links]  
   * [FiveWin FiveTech Software]

@@ -1,6 +1,6 @@
   * [Index Index]
   * [Setup Setup]
-  * [How_to_build_FiveWeb Building FiveWeb]
+  * [How_to_build_FiveWeb Building Fiveweb]
     * [download_fiveweb Download FiveWeb files]
     * [how_to_build_FiveWeb How to build it]
   * [examples Examples]

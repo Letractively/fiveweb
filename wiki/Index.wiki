@@ -1,7 +1,7 @@
   * [Index Index]
   * [Setup Setup]
   * [How_to_build_FiveWeb Building FiveWeb]
-    * [How_to_build_Harbour_for_WinRT Create a static library project]
+    * [download_fiveweb Download FiveWeb files]
     * [Harbour_files_to_add_to_the_project_to_build_Harbour_lib Add the Harbour files to include in the lib]
       * [Changes_to_extrap_c Changes to harbour\src\vm\extrap.c]
     * [Project_Directories_Include_settings  VC++ Directories - Include Directories]

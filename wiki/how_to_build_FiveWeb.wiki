@@ -8,4 +8,4 @@ Simply execute make
 
 For OSX:
 
-Simply execute ./gomak.sh
+Simply execute ./gomac.sh

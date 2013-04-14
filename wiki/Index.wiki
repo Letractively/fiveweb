@@ -1,4 +1,5 @@
   * [Index Index]
+  * [Setup Setup]
   * [How_to_build_Harbour_for_WinRT Build Harbour for WinRT]
     * [How_to_build_Harbour_for_WinRT Create a static library project]
     * [Harbour_files_to_add_to_the_project_to_build_Harbour_lib Add the Harbour files to include in the lib]

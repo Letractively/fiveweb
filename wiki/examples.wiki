@@ -10,4 +10,4 @@ sudo cp yourapp /usr/lib/cgi-bin
 
 For other apache2 settings please check:
 
-/etc/apache2/hppd.conf
+/etc/apache2/apache2.conf

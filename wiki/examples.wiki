@@ -1,0 +1,9 @@
+*Once you build an example doing from samples folder:*
+
+./build.sh tutor01
+
+
+*you have to copy the resulting app to this folder:*
+
+
+

@@ -15,3 +15,6 @@ export PRG_COMP_INC_PATH=$PRG_COMP_PATH/include
 chmod +x setenvh.sh
 
 ./setenvh.sh
+
+
+*We need to download the MySQL client package*

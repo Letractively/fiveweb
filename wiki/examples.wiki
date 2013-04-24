@@ -6,3 +6,8 @@
 *you have to copy the resulting app to this folder:*
 
 sudo cp yourapp /usr/lib/cgi-bin
+
+
+For other apache2 settings please check:
+
+/etc/apache2/hppd.conf

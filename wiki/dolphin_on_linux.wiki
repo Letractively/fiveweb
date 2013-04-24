@@ -17,4 +17,6 @@ chmod +x setenvh.sh
 ./setenvh.sh
 
 
-*We need to download the MySQL client package*
+*We need to download the MySQL client package:*
+
+sudo apt-get install libmysqlclient-dev

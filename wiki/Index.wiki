@@ -12,6 +12,8 @@
     * [login_prg Login.prg]
   * [fiveweb_forms_designer FiveWeb forms designer]
   * [using_dolphin Using Dolphin]
+    * [dolphin_on_linux Dolphin on Linux]
+    * [dolphin_on_windows Dolphin on Windows]
   * [useful_links Useful links]  
   * [FiveWin FiveTech Software]
     * [Please_donate Please donate]

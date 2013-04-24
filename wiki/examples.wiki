@@ -5,5 +5,4 @@
 
 *you have to copy the resulting app to this folder:*
 
-cp yourapp /usr/lib/cgi-bin
-
+sudo cp yourapp /usr/lib/cgi-bin

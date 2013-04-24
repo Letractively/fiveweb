@@ -2,11 +2,13 @@
 
 svn checkout http://www.sitasoft.net/tdolphin
 
+
 *I had to modifi setenvh.sh for my own settings:*
 
 export PRG_COMP_PATH=~/harbour
 
 export PRG_COMP_INC_PATH=$PRG_COMP_PATH/include
+
 
 *then do:*
 

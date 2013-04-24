@@ -3,7 +3,7 @@
 svn checkout http://www.sitasoft.net/tdolphin
 
 
-*I had to modifi setenvh.sh for my own settings:*
+*I had to modify setenvh.sh for my own settings:*
 
 export PRG_COMP_PATH=~/harbour
 

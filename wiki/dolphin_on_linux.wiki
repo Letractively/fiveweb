@@ -20,3 +20,10 @@ chmod +x setenvh.sh
 *We need to download the MySQL client package:*
 
 sudo apt-get install libmysqlclient-dev
+
+
+*We need to link these two libraries to build our apps:*
+
+ -ldolphin -lmysqlclient
+
+(already included in samples/build.sh)

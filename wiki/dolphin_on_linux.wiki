@@ -1,8 +1,9 @@
-Download Dolphin from its repository:
+*Download Dolphin from its repository:*
 
 svn checkout http://www.sitasoft.net/tdolphin
 
-then do:
-chmod +x setenvh.sh
-./setenvh.sh
+*then do:*
 
+chmod +x setenvh.sh
+
+./setenvh.sh

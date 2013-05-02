@@ -10,6 +10,7 @@
     * [testbrow_prg TestBrow.prg]
     * [testfold_prg TestFold.prg]
     * [login_prg Login.prg]
+    * [testtool_prg testtool.prg]
   * [fiveweb_forms_designer FiveWeb forms designer]
   * [using_dolphin Using Dolphin]
     * [dolphin_on_linux Dolphin on Linux]

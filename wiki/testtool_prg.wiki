@@ -1,2 +1,1 @@
-http://www.fivetechsoft.net/cgi-bin/testtool.prg
-
+http://www.fivetechsoft.net/cgi-bin/testtool

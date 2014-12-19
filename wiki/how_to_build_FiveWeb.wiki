@@ -1,6 +1,6 @@
 *For Windows:*
 
-Simple execute go.bat
+Simply execute go.bat
 
 *For Linux:*
 

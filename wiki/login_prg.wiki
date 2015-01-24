@@ -2,7 +2,7 @@ A usual web login:
 
 http://www.fivetechsoft.net/cgi-bin/login
 
-http://img208.imageshack.us/img208/5605/capturehdd.png
+https://bitbucket.org/fivetech/screenshots/downloads/fiveweb_login.JPG
 
 {{{
 #include "FiveWeb.ch"

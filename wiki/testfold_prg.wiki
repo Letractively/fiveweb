@@ -16,4 +16,4 @@ function Main()
 return nil
 }}}
 
-http://img803.imageshack.us/img803/7662/captureqk.jpg
+https://bitbucket.org/fivetech/screenshots/downloads/fiveweb_testfold.JPG

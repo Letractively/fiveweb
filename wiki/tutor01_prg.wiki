@@ -11,7 +11,7 @@ function Main()
 return nil
 }}}
 
-http://imageshack.us/a/img33/1189/tutor01prg.jpg
+https://bitbucket.org/fivetech/screenshots/downloads/fiveweb_tutor01.JPG
 
 Generated code:
 {{{

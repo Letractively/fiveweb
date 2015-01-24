@@ -1,7 +1,5 @@
 http://www.fivetechsoft.net/cgi-bin/tutor03
 
-http://img543.imageshack.us/img543/8595/capturezcu.jpg
-
 {{{
 // Using controls
 
@@ -23,3 +21,5 @@ function Main()
 
 return nil
 }}}
+
+https://bitbucket.org/fivetech/screenshots/downloads/fiveweb_tutor03.JPG

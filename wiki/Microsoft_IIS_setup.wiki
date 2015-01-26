@@ -15,3 +15,7 @@ https://bitbucket.org/fivetech/screenshots/downloads/IIS_2.JPG
 4. Select handler Mappings:
 
 https://bitbucket.org/fivetech/screenshots/downloads/IIS_4.JPG
+
+5. Your FiveWeb app should be already available:
+
+https://bitbucket.org/fivetech/screenshots/downloads/IIS_localhost.JPG

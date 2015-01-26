@@ -1,1 +1,5 @@
 In order to execute your FiveWeb apps from Microsoft IIS please follow these steps:
+
+1. Look for "Turn Windows features on or off" from your Windows, and select these ones:
+
+https://bitbucket.org/fivetech/screenshots/downloads/windows_features.JPG

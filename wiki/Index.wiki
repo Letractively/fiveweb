@@ -15,7 +15,7 @@
   * [using_dolphin Using Dolphin]
     * [dolphin_on_linux Dolphin on Linux]
     * [dolphin_on_windows Dolphin on Windows]
-  * [Microsoft IIS setup]  
+  * [Microsoft_IIS_setup]  
   * [useful_links Useful links]  
   * [FiveWin FiveTech Software]
     * [Please_donate Please donate]

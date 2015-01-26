@@ -11,3 +11,7 @@ https://bitbucket.org/fivetech/screenshots/downloads/IIS_1.JPG
 3. Select ISAPI and CGI restrictions:
 
 https://bitbucket.org/fivetech/screenshots/downloads/IIS_2.JPG
+
+4. 
+
+https://bitbucket.org/fivetech/screenshots/downloads/IIS_3.JPG

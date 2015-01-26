@@ -10,4 +10,4 @@ FiveWeb provides a makefile for Windows and another for Linux. In the samples fo
 
 If using Linux then remember to change the app permissions to make it executable:
 
-chmod 755 myapp
+chmod +x myapp

@@ -12,6 +12,6 @@ https://bitbucket.org/fivetech/screenshots/downloads/IIS_1.JPG
 
 https://bitbucket.org/fivetech/screenshots/downloads/IIS_2.JPG
 
-4. 
+4. Select handler Mappings:
 
 https://bitbucket.org/fivetech/screenshots/downloads/IIS_4.JPG

@@ -7,3 +7,7 @@ https://bitbucket.org/fivetech/screenshots/downloads/windows_features_IIS.JPG
 2. Look for "IIS manager" from your Windows:
 
 https://bitbucket.org/fivetech/screenshots/downloads/IIS_1.JPG
+
+3. Select ISAPI and CGI restrictions:
+
+https://bitbucket.org/fivetech/screenshots/downloads/IIS_2.JPG

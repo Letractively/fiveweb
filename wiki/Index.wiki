@@ -17,6 +17,7 @@ https://bitbucket.org/fivetech/fiveweb/downloads
     * [tutor02_prg Tutor02.prg]
     * [tutor03_prg Tutor03.prg]
     * [testgetp_prg Testgetp.prg]
+    * [testcomb_prg Testcomb.prg]
     * [testbrow_prg TestBrow.prg]
     * [testfold_prg TestFold.prg]
     * [login_prg Login.prg]

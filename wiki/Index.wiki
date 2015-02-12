@@ -1,3 +1,6 @@
+IMPORTANT: FiveWeb is no longer updated here, except the wiki.
+           FiveWeb location is https://bitbucket.org/fivetech/fiveweb
+
   * [Index Index]
   * [Setup Setup]
   * [How_to_build_FiveWeb Building FiveWeb]

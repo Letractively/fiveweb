@@ -1,7 +1,9 @@
 Example of GET with PICTURE
 
-testgetp.prg
+demo:
+http://www.fivetechsoft.net/cgi-bin/testgetp
 
+testgetp.prg
 {{{
 #include "FiveWeb.ch"
 

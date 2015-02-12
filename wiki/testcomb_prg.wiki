@@ -1,7 +1,6 @@
 Combobox demo
 
-demo: 
-
+http://www.fivetechsoft.net/cgi-bin/testcomb
 
 testcomb.prg
 {{{

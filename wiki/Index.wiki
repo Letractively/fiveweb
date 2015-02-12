@@ -1,5 +1,9 @@
-IMPORTANT: FiveWeb is no longer updated here, except the wiki.
-           FiveWeb location is https://bitbucket.org/fivetech/fiveweb
+IMPORTANT: 
+
+FiveWeb is no longer updated here, except the wiki.
+FiveWeb new location is https://bitbucket.org/fivetech/fiveweb
+Download the most recent version from here:
+https://bitbucket.org/fivetech/fiveweb/downloads
 
   * [Index Index]
   * [Setup Setup]
